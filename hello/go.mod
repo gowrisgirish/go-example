@@ -1,4 +1,4 @@
 module golang.org/x/example/hello
 
-go 1.23.1
+go 1.23
 
