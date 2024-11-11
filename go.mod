@@ -1,6 +1,6 @@
 module golang.org/x/example
 
-go 1.23
+go 1.23.1
 
 require (
 	k8s.io/api v0.31.2
